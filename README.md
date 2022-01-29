@@ -5,15 +5,13 @@
 
 - 💻 Welcome to my official Github Page.
 - 📸 I’m currently learning python & lua.
-- 💼 I’m looking to create a fully advanced software.
+- 💼 Official partner with Max2k.
 
-### Connect with me:
+### Contact me at:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -49,10 +47,4 @@
 [website]: https://max2k.ml
 [course]: https://max2k.ml
 [discord]: https://discord.gg/QVxa7eyFP4
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+
