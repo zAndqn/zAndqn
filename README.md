@@ -47,4 +47,11 @@
 [website]: https://max2k.ml
 [course]: https://max2k.ml
 [discord]: https://discord.gg/QVxa7eyFP4
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
 
