@@ -4,7 +4,7 @@
 
 - 💻 Welcome to my official Github Page.
 - 📸 I’m currently learning python & lua.
-- 💼 Official partner with Max2k. **[Max Website]**
+- 💼 Contact me on discord **Andqn#9999** or [<img align="left" alt="codeSTACKr | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 ### Contact me at:
 
