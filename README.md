@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Max2K?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
 
 - 💻 Welcome to my official Github Page.
-- 📸 I’m currently learning python & lua.
+- 📸 I’m currently learning python, html and css.
 - 💼 I’m looking to create a fully advanced software.
 
 ### Connect with me:
@@ -46,13 +46,6 @@
 
 </details>
 
-[website]: https://max2k.ml
-[course]: https://max2k.ml
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[website]: https://Andreazz.ml
+
+
