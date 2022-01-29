@@ -5,7 +5,7 @@
 - 💻 Welcome to my official Github Page.
 - 📸 I’m currently learning python & lua.
 
-### Contact me at:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
