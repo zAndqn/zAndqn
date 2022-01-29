@@ -4,7 +4,6 @@
 
 - 💻 Welcome to my official Github Page.
 - 📸 I’m currently learning python & lua.
-- 💼 Contact me on discord **Andqn#9999**
 
 ### Contact me at:
 
