@@ -38,7 +38,7 @@
 
 </details>
 
-[website]: https://max2k.ml
+[website]: https://andreazz.ml
 [course]: https://max2k.ml
 [discord]: https://discord.gg/QVxa7eyFP4
 [youtube]: https://youtube.com/
