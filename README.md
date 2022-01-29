@@ -4,7 +4,7 @@
 
 - 💻 Welcome to my official Github Page.
 - 📸 I’m currently learning python & lua.
-- 💼 Official partner with Max2k.
+- 💼 Official partner with Max2k. [course][website]
 
 ### Contact me at:
 
